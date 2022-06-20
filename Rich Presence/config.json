@@ -1,0 +1,12 @@
+{
+    "Application_ID": "ID-HERE",
+    "details": "SIMPLE-DETAILS",
+    "state": "DETAILS",
+    "large_image": "NAME-OF-LARGE-IMAGE",
+    "large_image_text": "TEXT-OVER-THE-IMAGE",
+    "small_image": "NAME-OF-SMALL-IMAGE",
+    "button_label1": "BUTTON-1-NAME",
+    "button_url1": "URL-REDIRECTS-ON-BUTTON-1",
+    "button_label2": "BUTTON-2-NAME",
+    "button_url2": "URL-REDIRECTS-ON-BUTTON-2"
+}
